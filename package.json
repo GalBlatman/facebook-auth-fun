@@ -1,0 +1,25 @@
+{
+  "name": "facebook-auth-fun",
+  "version": "1.0.0",
+  "description": "\"# facebook-auth-fun\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalBlatman/facebook-auth-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalBlatman/facebook-auth-fun/issues"
+  },
+  "homepage": "https://github.com/GalBlatman/facebook-auth-fun#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1"
+  }
+}
